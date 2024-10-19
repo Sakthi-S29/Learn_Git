@@ -5,6 +5,7 @@ public class Main{
 		String name = scanner.nextLine();
 		System.out.println("Hello " + name);
 		System.out.println("How are you " + name "?");
+		System.out.println("Hope you are doing good " + name ".");
 	}
 
 }
